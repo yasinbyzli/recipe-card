@@ -21,7 +21,6 @@ function App() {
         <Card
           /* prop ismi = { değişken } */
           author={recipeAuthor}
-          recipe={recipeItem}
         />
       </header>
     </div>

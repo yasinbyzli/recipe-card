@@ -9,7 +9,7 @@ export default function Card(props) {
     <div className="card">
       <div className="card-header">
         <div className="profile">
-          <span className="letter">K</span>
+          <span className="letter">{props.author[0]}</span>
         </div>
         <div className="card-title-group">
           <h5 className="card-title">Title</h5>
