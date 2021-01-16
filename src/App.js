@@ -22,7 +22,6 @@ function App() {
           /* prop ismi = { değişken } */
           author={recipeAuthor}
           recipe={recipeItem}
-          /*  Buraya diğer Prop'ları eklemeniz gerek.  */
         />
       </header>
     </div>
