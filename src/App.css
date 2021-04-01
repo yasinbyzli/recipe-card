@@ -2,9 +2,10 @@
 	background-color: #282c34;
 	min-height: 100vh;
 	display: flex;
-	flex-direction: column;
+	padding: 20px;
 	align-items: center;
-	justify-content: center;
+	justify-content: space-between;
+	flex-wrap: wrap;
 	font-size: calc(10px + 2vmin);
 	color: white;
 }
